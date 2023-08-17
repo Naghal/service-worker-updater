@@ -43,7 +43,7 @@
     "deploy-force": "np --color"
   },
   "peerDependencies": {
-    "react": "^17"
+    "react": "^17|^18"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.11.10",
